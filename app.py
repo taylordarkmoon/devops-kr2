@@ -1,3 +1,4 @@
+# KR2: Shatunova
 import os
 import socket
 
